@@ -1,4 +1,4 @@
-d:
+d:war/
 d:data
 i:data/alien.png
 t:data/ar.fnt
