@@ -1,9 +1,10 @@
-d:war/
+d:
 d:data
 i:data/alien.png
 t:data/ar.fnt
 i:data/ar.png
 a:data/coin.wav
+i:data/controls.png
 a:data/createplan.wav
 a:data/enhurt.wav
 a:data/enshoot.wav

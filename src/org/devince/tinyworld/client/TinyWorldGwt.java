@@ -15,7 +15,9 @@ public class TinyWorldGwt extends GwtApplication {
 	}
 
 	public ApplicationListener getApplicationListener() {
-		return TinyWorld.get();
+		TinyWorld game = TinyWorld.get();
+		game.setGWT(true);
+		return game;
 	}
 
 }
